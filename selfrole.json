@@ -32,5 +32,25 @@
             "Titin",
             "Bian"
         ]
+    },
+    "908046365509177444": {
+        "emojis": [
+            "\ud83d\ude04",
+            "\ud83d\ude3a"
+        ],
+        "roles": [
+            "cpp",
+            "python"
+        ]
+    },
+    "908046547730722818": {
+        "emojis": [
+            "\ud83d\ude04",
+            "\ud83d\ude03"
+        ],
+        "roles": [
+            "cpp",
+            "python"
+        ]
     }
 }
